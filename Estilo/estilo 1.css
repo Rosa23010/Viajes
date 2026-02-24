@@ -1,0 +1,94 @@
+.general
+	{
+		width:1225px;
+		background:#78A66A;
+		border-radius:25px;
+		margin:25px;
+	}
+	
+	h1
+	{
+	font-family:Impact;
+	text-align: center;
+	font-weight:500;
+	padding:25px;
+	color: white;
+	}
+	
+  
+  	h4
+	{
+	font-family:'Courier New', Courier, monospace;
+	text-align: center;
+	font-weight:1000;
+	padding:25px;
+	color: #00365C;
+	}
+	
+.inicio {
+	  display: flex;
+  gap: 40px;
+  text-align: justify;
+  font-family:serif;
+  margin: 25px;
+  background-color:#C5EDBE; 
+    border-radius: 15px;
+	  font-size: 18px;
+}
+
+
+footer {
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.inicio p {
+  text-align: center;      
+  margin: 0 40px;         
+}
+
+h4 {
+  margin-bottom: 0px;   
+}
+
+.inicio p {
+  margin-top: 0px;      
+}
+
+.Ingredientes{
+	 display: flex;  
+  gap: 20px;    
+  text-align: justify;
+  font-family:serif;
+  margin: 25px;
+  background-color:#C5EDBE; 
+    border-radius: 15px;
+	  font-size: 18px;  
+}
+
+.Tortita{
+	 width: 150px;  
+}
+
+.enlace{
+	 color: #00365C;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+  transition:color 0.3s ease;
+  font-family:'Courier New', Courier, monospace;
+}
+
+	nav a{
+		color:#00365C;
+		transition:color 0.3s ease;
+	}
+	nav a:hover {
+		color: white;
+	}
+	
+	a {
+  text-decoration: none;
+}
